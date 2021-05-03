@@ -1,0 +1,1 @@
+This is where one should add all their known words, line by line. The app will automatically add declensions from the text.
