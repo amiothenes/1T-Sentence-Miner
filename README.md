@@ -16,8 +16,8 @@ Coming soon.
     * Open .bat file on Windows and change [PATH] to the jar's path on your PC. Example: `C:\Users\name\folder\T1SentencesFinder.jar`
     * Open .command file on Mac and change [PATH] to the jar's path on your Mac. Example `/Users/name/folder/Testing/T1SentencesFinder.jar`
 4. Run the .bat or .command file (you can put it the .bat/.command anywhere; ex: Desktop) (update that file if you change where the folder with .jar's path)
-5. If it's running without errors, it's time to fill the learnWords.txt with words you know
-    1. Export your filtered-only-known-words Anki deck as a .txt file
+5. If it's running without errors, it's time to fill the learnedWords.txt with words you know
+    1. Export your filtered-only-known-words Anki deck as a .txt file (Select your deck and click File->Export and select the first .txt option with only your interested deck)
     2. Set it in Excel or Google Sheets
     3. Make sure to find the row where only the target language word is present ([make it without caps](https://decapitalize.eu/) or articles)
     4. Copy the list of words into learnedWords.txt with one word per line. Like this: ![alt text](https://i.imgur.com/haAgGKN.png "One word per line")
