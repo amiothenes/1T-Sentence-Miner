@@ -1,7 +1,7 @@
 # T1-Sentence-Generator
 Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck.
 
-A tool made for automatic sentence mining to save time for immersion that would be otherwise used up by making flashcards. It uses a text file, where the immersion text would be inserted, and reads it to find 1T sentence cards and uses web scraping to find definitions from online dictionaries. It uses AnkiConnect to automatically put the card into your deck when done. This tool is in the path with Refold, Mia, Migaku.  Become a polyglot!
+A tool made for automatic sentence mining to save time for immersion that would be otherwise used up by making flashcards. It uses a text file, where the immersion text would be inserted, and reads it to find 1T sentence cards and uses web scraping to find definitions from online dictionaries. It uses AnkiConnect to automatically put the card into your deck when done. This tool is in the path with Refold, Mia, Migaku.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAAWfZo-kBQ/0.jpg)](https://www.youtube.com/watch?v=lAAWfZo-kBQ) (https://youtu.be/lAAWfZo-kBQ)
 
@@ -15,7 +15,7 @@ Coming soon.
 3. Set up the path for your .jar file
     * Open .bat file on Windows and change [PATH] to the jar's path on your PC. Example: `C:\Users\name\folder\T1SentencesFinder.jar`
     * Open .command file on Mac and change [PATH] to the jar's path on your Mac. Example `/Users/name/folder/Testing/T1SentencesFinder.jar`
-4. Run the .bat or .command file
+4. Run the .bat or .command file (you can put it the .bat/.command anywhere; ex: Desktop) (update that file if you change where the folder with .jar's path)
 5. If it's running without errors, it's time to fill the learnWords.txt with words you know
     1. Export your filtered-only-known-words Anki deck as a .txt file
     2. Set it in Excel or Google Sheets
