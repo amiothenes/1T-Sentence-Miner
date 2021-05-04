@@ -3,7 +3,7 @@ Finds the lowest hanging fruit in your immersion automatically and adds it strai
 
 A tool made for automatic sentence mining to save time for immersion that would be otherwise used up by making flashcards. It uses a text file, where the immersion text would be inserted, and reads it to find 1T sentence cards and uses web scraping to find definitions from online dictionaries. It uses AnkiConnect to automatically put the card into your deck when done. This tool is in the path with Refold, Mia, Migaku.  Become a polyglot!
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAAWfZo-kBQ/0.jpg)](https://www.youtube.com/watch?v=lAAWfZo-kBQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAAWfZo-kBQ/0.jpg)](https://www.youtube.com/watch?v=lAAWfZo-kBQ) (https://youtu.be/lAAWfZo-kBQ)
 
 ## Installation
 ### Video
