@@ -68,3 +68,4 @@ If you see `?` in random places make sure you have UTF-8 encoding on all the .tx
 
 ## Future
 * Set up many dictionaries for many languages
+* Create an easier way to import your known words
