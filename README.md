@@ -13,8 +13,8 @@ Coming soon.
 1. [Install Java](https://java.com/en/download/) if you don't have it already
 2. Clone this repository and unzip the folder
 3. Set up the path for your .jar file
-    * Open .bat file on Windows and change [PATH] to the folder's path on your PC. Example: `C:\Users\name\folder\T1SentencesFinder.jar`
-    * Open .command file on Mac and change [PATH] to the folder's path on your Mac. Example `/Users/name/folder/Testing/T1SentencesFinder.jar`
+    * Open .bat file on Windows and change [PATH] to the jar's path on your PC. Example: `C:\Users\name\folder\T1SentencesFinder.jar`
+    * Open .command file on Mac and change [PATH] to the jar's path on your Mac. Example `/Users/name/folder/Testing/T1SentencesFinder.jar`
 4. Run the .bat or .command file
 5. If it's running without errors, it's time to fill the learnWords.txt with words you know
     1. Export your filtered-only-known-words Anki deck as a .txt file
