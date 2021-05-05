@@ -1,1 +1,1 @@
-java -jar [PATH]\T1SentencesFinder.jar
+java -jar [PATH]/T1SentencesFinder.jar
