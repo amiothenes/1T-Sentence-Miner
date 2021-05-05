@@ -52,7 +52,7 @@ Say you want to read a book but your comprehension is below 75%, which is low an
 Here, the UI will be in English and in place of `?` there should be unicode arrows for you.
 
 ## Supported Dictionaries and Languages
-* Monolingual German (DWDS.NET)
+* Monolingual German (DWDS.DE)
 
 *Please request your language and whether you want the monolingual or bilingual dictionary support, so that it can be added.*
 
