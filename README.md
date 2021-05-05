@@ -1,6 +1,8 @@
 # T1-Sentence-Generator
 Finds the lowest hanging fruit in your immersion automatically and adds it straight to your Anki deck.
 
+![image](https://user-images.githubusercontent.com/60746276/117210927-5b310080-adc6-11eb-9409-f1129b974fc6.png)
+
 A tool made for automatic sentence mining to save time for immersion that would be otherwise used up by making flashcards. It uses a text file, where the immersion text would be inserted, and reads it to find 1T sentence cards and uses web scraping to find definitions from online dictionaries. It uses AnkiConnect to automatically put the card into your deck when done. This tool is in the path with Refold, Mia, Migaku.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lAAWfZo-kBQ/0.jpg)](https://www.youtube.com/watch?v=lAAWfZo-kBQ) (https://youtu.be/lAAWfZo-kBQ)
