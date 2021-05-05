@@ -7,7 +7,7 @@ A tool made for automatic sentence mining to save time for immersion that would 
 
 ## Installation
 ### Video
-Coming soon.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SdCP8D0jFR4/0.jpg)](https://www.youtube.com/watch?v=SdCP8D0jFR4) (https://youtu.be/SdCP8D0jFR4?t=150)
 
 ### Instructions
 1. [Install Java](https://java.com/en/download/) if you don't have it already
