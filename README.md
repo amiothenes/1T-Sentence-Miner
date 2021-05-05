@@ -14,7 +14,7 @@ A tool made for automatic sentence mining to save time for immersion that would 
 2. Clone this repository and unzip the folder
 3. Set up the path for your .jar file
     * Open .bat file on Windows and change [PATH] to the jar's path on your PC. Example: `C:\Users\name\folder\T1SentencesFinder.jar`
-    * Open .command file on Mac and change [PATH] to the jar's path on your Mac. Example `/Users/name/folder/Testing/T1SentencesFinder.jar`
+    * Open .command file on Mac and change [PATH] to the jar's path on your Mac. Example `/Users/name/folder/Testing/T1SentencesFinder.jar` If you're unable to run the .command file try wrapping your path with "" (quotes).
 4. Run the .bat or .command file (you can put it the .bat/.command anywhere; ex: Desktop) (update that file if you change where the folder with .jar's path)
 5. If it's running without errors, it's time to fill the learnedWords.txt with words you know
     1. Export your filtered-only-known-words Anki deck as a .txt file (Select your deck and click File->Export and select the first .txt option with only your interested deck)
