@@ -62,6 +62,7 @@ Here you can download a frequency list for various languages to fill your learne
 * [Click here to get various frequency lists.](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
 * [Another option for frequency lists.](https://github.com/melling/LanguageLearning)
 * <a id="raw-url" href="https://raw.githubusercontent.com/Amiothenes/1T-Sentence-Miner/master/Deck.apkg">Download Sample Anki Notetype (.apkg)</a>
+    You may customize the note type insofar in keeping the 4 required field names.
 
 ## Errors/Issues
 Please report them in the issues tab.
