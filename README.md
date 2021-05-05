@@ -58,9 +58,10 @@ Here, the UI will be in English and in place of `?` there should be unicode arro
 
 ## Resources
 Here you can download a frequency list for various languages to fill your learnedWords.txt and the Note Type that I designed for this app.
-[Click here to get various frequency lists.](https://github.com/melling/LanguageLearning)
 
-<a id="raw-url" href="https://raw.githubusercontent.com/Amiothenes/1T-Sentence-Miner/master/Deck.apkg">Download Sample Anki Notetype (.apkg)</a>
+* [Click here to get various frequency lists.](https://github.com/hermitdave/FrequencyWords/tree/master/content/2018)
+* [Another option for frequency lists.](https://github.com/melling/LanguageLearning)
+* <a id="raw-url" href="https://raw.githubusercontent.com/Amiothenes/1T-Sentence-Miner/master/Deck.apkg">Download Sample Anki Notetype (.apkg)</a>
 
 ## Errors/Issues
 Please report them in the issues tab.
